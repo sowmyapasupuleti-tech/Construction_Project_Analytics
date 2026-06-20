@@ -1,0 +1,11 @@
+project_id,project_name,project_location,contract_value,actual_cost,budgeted_labor_days,actual_labor_days,material_supplier,material_cost,project_status,timeline_days_planned,timeline_days_actual,workforce_allocated,workforce_used,safety_incidents,quality_issues,start_date,end_date,budget_variance,timeline_variance,labor_efficiency,cost_per_day,safety_score,quality_score
+P001,Highway Expansion Phase 1,Mumbai,5000000,5250000,500,520,ABC Steel,1250000,On Track,180,185,45,42,0,2,2024-01-15,2024-06-15,5.0,2.78,96.15,28378.0,100,90
+P002,Commercial Complex Building,Bangalore,8500000,8200000,800,750,XYZ Concrete,2100000,Completed,240,230,60,58,1,1,2023-09-01,2024-06-30,-3.53,-4.17,106.67,35652.0,90,95
+P003,Residential Housing Project,Delhi,6000000,6450000,600,640,Prime Materials,1800000,Delayed,200,225,50,52,2,4,2024-02-01,2024-09-01,7.5,12.5,93.75,28667.0,80,80
+P004,Bridge Construction,Pune,9000000,9300000,1000,1050,ABC Steel,2500000,On Track,300,320,80,85,0,3,2023-11-01,2025-02-28,3.33,6.67,95.24,29062.0,100,85
+P005,Water Treatment Plant,Hyderabad,4500000,4200000,400,380,EcoSupply,900000,Completed,150,140,35,33,0,0,2024-03-15,2024-08-15,-6.67,-6.67,105.26,30000.0,100,100
+P006,Metro Station Construction,Kolkata,12000000,12800000,1200,1300,National Suppliers,3500000,Delayed,360,400,100,110,3,7,2023-06-01,2025-05-30,6.67,11.11,92.31,32000.0,70,65
+P007,Office Building Renovation,Chennai,3500000,3450000,300,290,Local Vendors,700000,Completed,120,110,25,24,0,1,2024-04-01,2024-07-30,-1.43,-8.33,103.45,31364.0,100,95
+P008,Dam Reinforcement,Jaipur,7500000,7800000,700,750,Structural Steel,1900000,On Track,250,270,65,68,1,2,2023-12-15,2025-03-15,4.0,8.0,93.33,28889.0,90,90
+P009,Road Surfacing Project,Ahmedabad,2800000,2750000,250,245,Asphalt Co,600000,Completed,100,95,20,19,0,0,2024-05-01,2024-07-15,-1.79,-5.0,102.04,28947.0,100,100
+P010,Railway Station Upgrade,Surat,5500000,5900000,550,600,Industrial Steel,1400000,On Track,200,225,48,52,1,2,2024-01-20,2024-09-15,7.27,12.5,91.67,26222.0,90,90
