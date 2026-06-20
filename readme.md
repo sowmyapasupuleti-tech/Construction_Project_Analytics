@@ -128,7 +128,6 @@ Construction_Project_Analysis/
 
 **Sowmya Pasupuleti**
 - Email: sowmyapasupuleti18@gmail.com
-- Phone: +91 8125030459
 - LinkedIn: linkedin.com/in/sowmya-pasupuleti-a495203a0
 - GitHub: github.com/sowmyapasupuleti-tech
 
